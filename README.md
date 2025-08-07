@@ -49,7 +49,8 @@ Use interactive filters to explore content data
 
 Gain insights into Netflix’s global catalog and trends
 
-👩‍💼 About the Author
+👩‍💼 About the Author - 
+
 Pooja Khaire
 MBA in Business Analytics | Sanjivani University
 Passionate about transforming data into actionable insights. Skilled in Tableau, Excel, SQL, Python, and Power BI.
